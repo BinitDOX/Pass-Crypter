@@ -1,7 +1,7 @@
 # Pass-Crypter
  A credential storage application with encryption
 
-### Screen-Shots
+### Screenshots
 <br>
 <table>
  <tr>
